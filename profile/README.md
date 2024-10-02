@@ -4,7 +4,7 @@
 
 ### 進行中のプロジェクト
 
-- [SharedHandSCR](https://github.com/testKitazakiLab/SharedHandSCR)
+- [Shared](https://github.com/testKitazakiLab/SharedHandSCR)
 
 
 ### 記録系のプログラム
